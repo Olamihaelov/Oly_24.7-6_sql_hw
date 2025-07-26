@@ -1,1 +1,1 @@
-# Oly_24.7-6_sql_hw
+# Oly_24.7 | 6_sql_hw
